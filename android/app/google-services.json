@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610091935718",
+    "firebase_url": "https://practice-real-demo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practice-real-demo",
+    "storage_bucket": "practice-real-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610091935718:android:fe07474f1179aaafc69827",
+        "android_client_info": {
+          "package_name": "com.example.practice_real_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvC9cQ6VGw4IgDEv48nX4kgZSlwgIN9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
